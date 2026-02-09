@@ -44,18 +44,3 @@ python main.py
 6. **Research Agent**: CrewAI Research Agent analyzes search results and finds relevant information
 7. **Response Agent**: CrewAI Response Agent synthesizes information into comprehensive answer
 8. **Final Response**: View the agent-generated response based on your knowledge base
-
----
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
----
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-
